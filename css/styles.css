@@ -1,7 +1,7 @@
 body {
   /* background-color: #95D1CC; */
   text-align: center;
-  font-family: Verdona, sans-serif;
+  font-family: Ariel, sans-serif;
   margin: 0;
 }
 hr {
@@ -44,6 +44,7 @@ td{
 }
 .heading{
   margin:0;
+  padding: 2%;
 }
 .contact{
   background-color:#e0ebe8;
@@ -53,3 +54,7 @@ td{
 .last{
   margin:0;
 }
+.cont{
+  font-size: 30px;
+}
+
